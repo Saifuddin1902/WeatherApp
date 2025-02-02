@@ -1,1 +1,1 @@
-A simple Java-based weather application using JSon and OpenWeatherMap API.
+A simple Java-based weather application using Json,Gson and OpenWeatherMap API.
